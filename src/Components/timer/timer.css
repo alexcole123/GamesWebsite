@@ -1,0 +1,7 @@
+.timer {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: pink; /* Example background color */
+    padding: 10px; /* Example padding */
+}
